@@ -33,6 +33,7 @@ p {
 }
 
 #generate-btn {
+  cursor: pointer;
   display: inline-flex;
   padding: 9px 17px 9px 15px;
   justify-content: center;
@@ -110,3 +111,16 @@ hr {
   background: #273549;
   border-radius: 6px;
 }
+
+/* #clear {
+  cursor: pointer;
+  background-color: #2f3e53;
+  border: none;
+  margin-left: 30px;
+  margin-top: 20px;
+  height: 45px;
+  border-radius: 6px;
+  font-family: 'Inter', sans-serif;
+  font-weight: bold;
+  color: #55f991;
+} */
